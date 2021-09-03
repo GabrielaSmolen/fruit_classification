@@ -1,1 +1,1 @@
-# tomato-detector
+In this project I am creating a tomato detector using Neural Networks.

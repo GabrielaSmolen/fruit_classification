@@ -1,0 +1,11 @@
+train_path: 'data/Training_small'
+test_path: 'data/Test_small'
+no_epochs: 2
+img_width: 25
+img_height: 25
+img_num_channels: 3
+no_classes: 131
+batch_size: 25
+train_dir: 'data/train'
+test_dir: 'data/test'
+model_path: 'data/model'

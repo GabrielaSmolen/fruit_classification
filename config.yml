@@ -1,5 +1,5 @@
-train_path: 'data/Training_small'
-test_path: 'data/Test_small'
+train_path: 'data/fruits-360_dataset/fruits-360/Training'
+test_path: 'data/fruits-360_dataset/fruits-360/Test'
 no_epochs: 2
 img_width: 25
 img_height: 25
